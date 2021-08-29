@@ -324,6 +324,9 @@ li{
   
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
 }
+.select-all{
+  cursor: pointer;
+}
 .form-input{
   width: 300px;
   padding: 16px;
