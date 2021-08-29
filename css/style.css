@@ -124,8 +124,12 @@ body{
   display: inline-block;
 }
 .btn:hover{
-  background: #FFFFFF;
-  color: #00BAFC;
+  background: rgb(0, 186, 252);
+  opacity: 0.8;
+}
+.btn:active{
+  background: rgb(0, 186, 252);
+  opacity: 0.8;
 }
 .servises-text{
   width: 719px;
